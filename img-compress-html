@@ -5,10 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Free online tool to compress your images while maintaining quality. Reduce file size for JPG, PNG, and WebP images.">
     <meta name="keywords" content="image compressor, reduce image size, optimize images, free image tool, JPG compressor, PNG optimizer">
-    <meta name="author" content="ImageCompressorPro">
+    <meta name="author" content="ImageCompressor">
     <meta name="robots" content="index, follow">
-    <meta property="og:title" content="Free Online Image Compression Tool">
-    <meta property="og:description" content="Compress your images for web and mobile with our free optimization tool.">
+    <meta property="og:title" content=" Online Image Compression Tool">
+    <meta property="og:description" content=" our free optimization tool.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://yourdomain.com">
     <meta property="og:image" content="https://yourdomain.com/preview.jpg">
@@ -595,7 +595,7 @@
         }
     </style>
     <!-- Google AdSense -->
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-YOUR_ADSENSE_ID" crossorigin="anonymous"></script>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-app-pub-6042013841951574/2158857496" crossorigin="anonymous"></script>
 </head>
 <body>
     <header>
